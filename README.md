@@ -1,12 +1,14 @@
 # hello-world
 # Filename: hello-world
-# Date: Mon 28 Mar 2016 11:33:02 AEDT 
+# Date: Sun, 28 Jul 2019 15:15:07 +1000
 # Author: paulparker 
 # Object: Script Education
 
-Learning keeps us alive, those times feels more difficult, the achieving feels better ;-)
+Learning keeps us alive, at times feels difficult, however achieving does feel better ;-)
 
-While am a long term computer user, comfortable using terminal, long time writer of short basic simple scripts to save time typing, installing, updating, of regular activities, am here to learn... 
+While am long term computer user, comfortable using terminal, long time write short simple scripts to save time typing, installing, updating, of regular activities, am here to learn... 
+
+The best place to start is by using your terminal to do simple things :-) 
 
 How to Make and Commit changes.  
 How to Merge...
